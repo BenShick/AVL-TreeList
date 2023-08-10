@@ -1,4 +1,3 @@
-# AVL-TreeList
 
 # background: 
 An Avl-Tree is a tree in which for all node v in the tree: |height(v.left) - height(v.righ)| <= 1. it can be shown that the height of an Avl Tree with n nodes is O(log(n)).
